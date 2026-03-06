@@ -75,3 +75,5 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /GameJam/Intermediate
 /GameJam/Saved
+/GameJam/Binaries
+/GameJam/Build
